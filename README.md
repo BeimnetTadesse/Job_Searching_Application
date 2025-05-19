@@ -26,7 +26,7 @@ FirstJavaFxProject/
 │   ├── controller/     # Controllers for UI logic
 │   ├── database/       # DAOs and DB handling
 │   ├── model/          # Model classes (User, Job, etc.)
-│   └── view/           # JavaFX views
+│   └── view/           # JavaSwing views
 ├── jobSearch.db        # SQLite database file
 └── README.md           # Project documentation
 ```
@@ -38,7 +38,6 @@ FirstJavaFxProject/
 ### ✅ Requirements:
 
 * Java 17+
-* JavaFX SDK (if not bundled with IDE)
 * SQLite JDBC JAR (already included in `lib/`)
 
 ### 🧪 Compile
