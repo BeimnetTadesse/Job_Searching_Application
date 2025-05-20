@@ -1,4 +1,4 @@
-# 💼 JavaFX Job Searching Application
+# 💼 Java Job Searching Application
 
 A desktop application built with **SQLite**, developed as part of an **Advanced Programming** course project. This system allows job seekers and employers to register, post/search for jobs, apply, and manage their profiles — all within an intuitive GUI.
 
