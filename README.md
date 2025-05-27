@@ -65,16 +65,6 @@ java -cp ".:lib/sqlite-jdbc-3.49.1.0.jar:bin" app.App
 
 ---
 
-## 📌 Project Status
-
-✅ Fully functional with core features implemented.
-✨ **Planned Improvements:**
-
-* Resume/CV file upload support
-* Job filtering
-
----
-
 ## 👤 Author
 
 **Beimnet Tadesse**
